@@ -1,0 +1,11 @@
+/.vs
+/x64
+/Debug
+/lua/x64
+/lua/Debug
+/foolib/x64
+/foolib/Debug
+/barlib/x64
+/barlib/Debug
+/MemoryModule/x64
+/MemoryModule/Debug
